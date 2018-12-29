@@ -1,6 +1,6 @@
 # SliderCollectionView
 
->Swift4编写进度条组件
+>Swift4.2编写的分段选择器
 
 ![test.jpg](https://github.com/Nick-Hoper/SliderCollectionView/blob/master/test.jpg)
 
